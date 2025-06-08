@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1>Hi, I'm Nikolai! <br/>
 
-<!--
-**DrozdovNikolai/DrozdovNikolai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Software Development Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Full Stack Web App (.NET 8, PostgreSQL, Vue3, Docekr, Kubernetes)</b>
+  - [Universal middleware server with UI k8s management](https://github.com/DrozdovNikolai/Web-Server-PSQL)
+- <b>Vue3</b>
+  - [Interview test project](https://github.com/DrozdovNikolai/vuegrades)
+- <b>Kotlin (Desktop Application)</b>
+  - [Deans certificate of study automation](https://github.com/DrozdovNikolai/deansGenerator)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="DrozdovNikolai | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="DrozdovNikolai | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[telegram]: https://t.me/DrozdovNikolai
+[linkedin]: https://www.linkedin.com/in/drozdovn/
