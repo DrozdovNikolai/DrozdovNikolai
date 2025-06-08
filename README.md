@@ -6,6 +6,7 @@
   - [Universal middleware server with UI k8s management](https://github.com/DrozdovNikolai/Web-Server-PSQL)
 - <b>Vue3</b>
   - [Interview test project](https://github.com/DrozdovNikolai/vuegrades)
+  - [UI for managing universal middleware server stored procedures, users, functions, schemas, roles and permissions](https://github.com/course-work-vue/new_source)
 - <b>Kotlin (Desktop Application)</b>
   - [Deans certificate of study automation](https://github.com/DrozdovNikolai/deansGenerator)
 
